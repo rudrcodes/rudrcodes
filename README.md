@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript and will then move on to React js.**
+- 🌱 I’m a **React js developer.**
+- 
+- ⚙️ I’m fascinated by the world of **Blockchain** and thinking of going in that field.
 
 - 👨‍💻 All of my projects are available at [https://rudransh.netlify.app](https://rudransh.netlify.app)
 
