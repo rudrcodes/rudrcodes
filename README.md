@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m a **React js developer.**
+- 🌱 I’m a **MERN stack developer.**
 
 - ⚙️ I’m fascinated by the world of **Blockchain** and thinking of going in that field.
 
