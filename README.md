@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rudrcodes" /> </p>
 
+<a href="https://app.daily.dev/rudrcodes"><img src="https://api.daily.dev/devcards/v2/mrimutZLP2JU5I3EbwDWI.png?type=default&r=ysx" width="356" alt="Rudransh Aggarwal's Dev Card"/></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudrcodes" alt="rudrcodes" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
